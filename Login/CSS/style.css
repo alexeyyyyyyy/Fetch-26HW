@@ -1,0 +1,14 @@
+body{
+    background-color: tan;
+}
+label {
+    margin-left: 450px;
+    font-size: 25px;
+}
+input{
+    font-size: 15px;
+}
+button{
+    font-size: 20px;
+    background-color: green;
+}
